@@ -21,6 +21,8 @@ Backend Setup (Express server): Navigate to the backend directory in your termin
 
  copy code 'npm i' in backend as well as in frontend
 
+ code 'npm start' to run the program
+
 TO RUN APPLICATION -
 
 Open your browser and go to http://localhost:3000 (or the port specified by the React development server). Click the "Login with Google" button. You will be redirected to Google for authentication. Log in with your Google credentials and grant the required permissions. View Due Invoices:
